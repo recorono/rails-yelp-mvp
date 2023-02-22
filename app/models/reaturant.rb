@@ -1,0 +1,2 @@
+class Reaturant < ApplicationRecord
+end
